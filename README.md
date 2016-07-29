@@ -10,9 +10,9 @@ make mysql
 make test2
 ```
 
-## 项目地址
-https://hub.docker.com/r/qdsang/rap/
-https://github.com/thx/RAP
+## links
+- 仓库 https://hub.docker.com/r/qdsang/rap/
+- 项目地址 https://github.com/thx/RAP
 
 ## 数据库初始化
 
