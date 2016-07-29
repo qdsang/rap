@@ -11,6 +11,7 @@ make test2
 ```
 
 ## 项目地址
+https://hub.docker.com/r/qdsang/rap/
 https://github.com/thx/RAP
 
 ## 数据库初始化
